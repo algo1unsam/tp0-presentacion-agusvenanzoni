@@ -12,6 +12,7 @@ Consiste en hacer 2 simples tareas:
   - darle al botón de **Commit** para subir los cambios al repositorio.
 
 
-- [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
+- [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Foto CV](https://github.com/algo1unsam/tp0-presentacion-agusvenanzoni/assets/118057842/234a3fb0-988d-4d89-b0a5-30eab04791b0)
+
 
 Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
